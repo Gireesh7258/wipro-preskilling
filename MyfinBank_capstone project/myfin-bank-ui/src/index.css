@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.shadow-hover:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175) !important;
+}
+/* Professional Banking Typography */
+body {
+    font-family: 'Inter', -apple-system, sans-serif;
+}
+
+/* Bento Tile Hover Effect */
+.action-tile:hover {
+    transform: translateY(-5px);
+    background-color: #002e6e !important;
+    color: white !important;
+}
+
+.action-tile:hover span {
+    color: white !important;
+}
+
+/* Soft Hover for Lists */
+.hover-bg-light:hover {
+    background-color: #f8fafc;
+    cursor: pointer;
+}
+
+/* Custom Scrollbar for a premium feel */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 10px;
+}
