@@ -1,0 +1,8 @@
+**/node_modules/
+**/target/
+**/.cache/
+**/build/
+.settings/
+.project
+.classpath
+.idea/

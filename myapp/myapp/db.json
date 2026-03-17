@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Complete React Assignment",
+      "description": "Finish the expense tracker project",
+      "category": "Work",
+      "completed": false,
+      "createdAt": "2026-02-20"
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Milk, Bread, Eggs, Fruits",
+      "category": "Shopping",
+      "completed": false,
+      "createdAt": "2026-02-22"
+    },
+    {
+      "id": 3,
+      "title": "Morning Workout",
+      "description": "30 minutes cardio",
+      "category": "Personal",
+      "completed": true,
+      "createdAt": "2026-02-23"
+    },
+    {
+      "id": 4,
+      "title": "Prepare Presentation",
+      "description": "Slides for project demo",
+      "category": "Work",
+      "completed": false,
+      "createdAt": "2026-02-24"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Work"
+    },
+    {
+      "id": 2,
+      "name": "Personal"
+    },
+    {
+      "id": 3,
+      "name": "Shopping"
+    }
+  ]
+}
